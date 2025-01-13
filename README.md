@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Wildan - aka [Wildan](https://www.instagram.com/projectku___?igsh=dDV1cmp0NzVzeXds) 👋
 ## About me:
-- 🔭 I’m currently studying at the University of Gunadarma
+- 🔭 I'm currently pursuing a degree in Informatics at Gunadarma University.
 - 🌱 I’m currently learning Laravel, Dart, Flutter, Go-Lang
 - 🤔 I’m looking for suggest for Flutter, Laravel Project Ideas
 - 💬 Ask me about anything
@@ -11,7 +11,7 @@
 #### 1. [Universitas Gunadarma](https://www.gunadarma.ac.id/) | Bachelor of 
 informatics | Bekasi `2022-now`
 
- #### 2. [SMK Karya Guna Bhakti 1] | TKR | Kota Bekasi `2016-2019`
+ #### 2. [SMK Karya Guna Bhakti 1 Bekasi] | TKR | Kota Bekasi `2016-2019`
    - chief of the pencak silat organization Tapak Suci
 
 ## Work Experience:
