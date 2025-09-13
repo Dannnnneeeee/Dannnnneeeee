@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Wildan - aka [Wildan](https://www.instagram.com/projectku___?igsh=dDV1cmp0NzVzeXds) 👋
 ## About me:
 - 🔭 I'm currently pursuing a degree in Informatics at Gunadarma University.
-- 🌱 I’m currently learning Laravel, Dart, Flutter, Go-Lang
+- 🌱 I’m currently learning Laravel, Dart, Flutter, Go-Lang, Python
 - 🤔 I’m looking for suggest for Flutter, Laravel Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: muhammadwildan0701@gmail.com
